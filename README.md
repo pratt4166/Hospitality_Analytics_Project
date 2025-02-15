@@ -54,7 +54,7 @@ Here we have AtliQ Grands who owns multiple five-star hotels across India. They 
    * Bookings made by people through online platforms were slightly higher than offline platforms.
    * Majority of bookings were made by other booking platforms contributing 41% of the total share.
 
- * Market Analysis
+ * Financial Performance
    * Elite rooms had the most booking through this period and presidential had the least.
    * The maximum revenue was made by Atiq Exotica (316M) and the least was by Atliq Seasons (65M).
    * In all the four cities, Elite rooms had the highest booking percentage.
@@ -62,7 +62,7 @@ Here we have AtliQ Grands who owns multiple five-star hotels across India. They 
    * In Delhi Atliq Palace were at the top because of the presence of goverment officials and being the capital.
    * Whereas in Mumbai, Atliq Exotica made the most due to high net worth people.
 
- * Financial Performance
+ * Market Analysis 
    * 
 
 
