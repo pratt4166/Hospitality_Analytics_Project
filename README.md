@@ -1,6 +1,6 @@
 # Hospitality_Analytics_Project
 
-Hotel Booking Trends and Revenue Analysis for 2022
+Hotel Booking Trends and Revenue Analysis for quater 2022
 
 # Introduction
 
@@ -70,8 +70,8 @@ Here we have AtliQ Grands who owns multiple five-star hotels across India. They 
    * ADR was at constant levels in May and June which indicates that the price of properties were kept nearly same during this period. It grew in June by 0.4% which tells that pricing were increases during the holiday period.
    * Realisation % also showed slight growth in May and June indicating more customers were served during this period.
    * Luxury properties were seen contributing most (62%) in the revenue share as compared to the business properties.
-   * On the booking platforn level, realisation % was seen being constant at 70% telling that same amount of rooms were booked and utilized by all platforms.
-   * 
+   * On the booking platforn level, realisation % was seen being constant at 70% telling that all rooms were booked and utilized successfully by all platforms.
+   * ADR was fluctuating on the platform level with direct offline being the highest, which means most revenue was generated through this and therefore maximum bookings.
 
 
 
