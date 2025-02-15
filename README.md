@@ -1,4 +1,4 @@
-# Hospitality-Analytics
+# Hospitality_Analytics_Project
 
 Hotel Booking Trends and Revenue Analysis for 2022
 
