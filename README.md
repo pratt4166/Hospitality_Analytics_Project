@@ -69,6 +69,8 @@ Here we have AtliQ Grands who owns multiple five-star hotels across India. They 
    * Occupancy was at -15% in May and then went up to 17% due to the beginning of the holiday season in June and went down in July with the end of holidays.
    * ADR was at constant levels in May and June which indicates that the price of properties were kept nearly same during this period. It grew in June by 0.4% which tells that pricing were increases during the holiday period.
    * Realisation % also showed slight growth in May and June indicating more customers were served during this period.
+   * Luxury properties were seen contributing most (62%) in the revenue share as compared to the business properties.
+   * On the booking platforn level, realisation % was seen being constant at 70% telling that same amount of rooms were booked and utilized by all platforms.
    * 
 
 
