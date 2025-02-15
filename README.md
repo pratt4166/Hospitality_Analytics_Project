@@ -34,8 +34,28 @@ Here we have AtliQ Grands who owns multiple five-star hotels across India. They 
   * Standardizing date formats, room categories, currency conversions
   * Creating custom columns for finding out weekends and weekdays
 
+# Key Metrics and insights
 
+ * Key Metrics
+   * Revenue per available room (RevPAR):
+   * Daily booked room nights (DBRN):
+   * Average daily rate (ADR):
+   * Daily sellable room nights (DSRN):
+   * Realisation %:
+   * Daily utilized room nights (DURN): 
 
+ * Descriptive Analysis
+   * A total of 1.69 billion revenue was generated for the analysed time period.
+   * The occupancy rate during this period was at 57.8%.
+   * Average ratings as given by the customers were at 3.62 out of 5.
+   * Out of the total revenue generated, 1.16 billion was generated in weekdays whereas weekends gave 5.24 million.
+   * Occupancy was seen higher on weekends than weekdays.
+   * Total bookings that were made during the weekdays were 70% while the remaining 30% were on weekends.
+   * Bookings made by people through online platforms were slightly higher than offline platforms.
+   * Majority of bookings were made by other booking platforms contributing 41% of the total share.
+
+ * Market Analysis
+   * 
 
 
 
