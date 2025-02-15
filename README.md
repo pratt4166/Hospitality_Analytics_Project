@@ -67,7 +67,7 @@ Here we have AtliQ Grands who owns multiple five-star hotels across India. They 
    * RevPAR was also down in May but went up in the later months of June and July which was due to availability of new rooms.
    * DSRN was seen being constant throughout this whole period.
    * Occupancy was at -15% in May and then went up to 17% due to the beginning of the holiday season in June and went down in July with the end of holidays.
-   * 
+   * ADR was at constant levels of 0.2% which indicates that the price of properties were kept nearly same during this period.
 
 
 
