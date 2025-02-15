@@ -63,7 +63,7 @@ Here we have AtliQ Grands who owns multiple five-star hotels across India. They 
    * Whereas in Mumbai, Atliq Exotica made the most due to high net worth people.
 
  * Market Analysis 
-   * 
+   * Revenue was the lowest in the month of May as comapred to the other months, it went up in June but was still negative whereas it became positive in the month of July.
 
 
 
