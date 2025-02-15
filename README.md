@@ -64,6 +64,10 @@ Here we have AtliQ Grands who owns multiple five-star hotels across India. They 
 
  * Market Analysis 
    * Revenue was the lowest in the month of May as comapred to the other months, it went up in June but was still negative whereas it became positive in the month of July.
+   * RevPAR was also down in May but went up in the later months of June and July which was due to availability of new rooms.
+   * DSRN was seen being constant throughout this whole period.
+   * Occupancy was at -15% in May and then went up to 17% due to the beginning of the holiday season in June and went down in July with the end of holidays.
+   * 
 
 
 
