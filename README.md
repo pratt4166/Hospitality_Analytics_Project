@@ -55,7 +55,6 @@ Here we have AtliQ Grands who owns multiple five-star hotels across India. They 
    * Majority of bookings were made by other booking platforms contributing 41% of the total share.
 
  * Market Analysis
-   * 
 
 
 
